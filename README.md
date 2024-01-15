@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PATRICKSEKATLE
-- 👀 I’m interested in ...Technology especially software
-- 🌱 I’m currently learning how to be softwere developer
-- 💞️ I’m looking to collaborate on technology projects
+- 👀 I’m interested in ...Technology especially network 
+- 🌱 I’m currently a student 
+- 💞️ I’m looking to collaborate on technology projects especially related to networks
 - 📫 How to reach me........ you can reach me anytime on sekatlepatrick@gmail.com or  always available here +26659816094
 
 <!---
